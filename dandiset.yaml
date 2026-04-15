@@ -7,9 +7,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 172228337
+  numberOfFiles: 32
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Aparicio, Francisco (2026) Mouse and NHP pre/post-lesion kinematic data
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001782/draft
 contributor:
