@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -10,8 +11,8 @@ assetsSummary:
   approach: []
   dataStandard: []
   measurementTechnique: []
-  numberOfBytes: 172228337
-  numberOfFiles: 32
+  numberOfBytes: 344333620
+  numberOfFiles: 56
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
@@ -26,8 +27,9 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-04-14T21:12:30.795755+00:00'
-description: Kinematic data used to characterize deficits observed in mice and macaques
-  post M1 lesion.
+description: Kinematic data used to characterize deficits in mice and macaques after
+  M1 lesion.
+ethicsApproval: []
 id: DANDI:001782/draft
 identifier: DANDI:001782
 license:
@@ -35,8 +37,10 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001782/versions/draft/assets/
 name: Mouse and NHP pre/post-lesion kinematic data
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/001782/draft
 version: draft
+wasGeneratedBy: []
